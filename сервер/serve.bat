@@ -1,0 +1,1 @@
+@cls && node src/index.js || pause
